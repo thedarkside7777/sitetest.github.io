@@ -1,0 +1,16 @@
+body {
+	background-color: grey;
+	background-size: cover;
+}
+
+.btn-primary {
+	background-color: orange;
+	position: center;
+
+}
+.w3-third {
+	display: flex;
+	flex-wrap: all;
+	position: absolute;
+	left: 330px;
+}
